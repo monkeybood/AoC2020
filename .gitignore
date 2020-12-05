@@ -1,2 +1,9 @@
 
 .DS_Store
+*.class
+*.iml
+4/.idea/misc.xml
+4/.idea/modules.xml
+4/.idea/uiDesigner.xml
+4/.idea/vcs.xml
+4/.idea/workspace.xml
